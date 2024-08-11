@@ -3,5 +3,12 @@ body{
     place-items: center;
     height: 100vh;
     background: black;
+    color: peru;
+}
+
+button {
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #000;
 }
 
